@@ -1,0 +1,67 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Rhyme"
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Labore ex reprehenderit anim qui ad mollit commodo aliquip excepteur aute. Commodo duis eiusmod eu dolore nisi proident elit culpa."
+						}
+					}
+				]
+			},
+			"button_text": {
+				"__TYPE__": "FieldContent",
+				"type": "Text",
+				"value": "Try for free"
+			},
+			"button_link": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://twitter.com",
+					"text": "letter"
+				}
+			},
+			"image": {
+				"__TYPE__": "ImageContent",
+				"provider": "imgix",
+				"url": "https://images.unsplash.com/photo-1585134339424-0fc98d0bfe86?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwzfHxvbWFufGVufDB8fHx8MTczMDc0Nzg0MXww&ixlib=rb-4.0.3&q=85",
+				"alt": "brown and green rock formation on blue sea under blue sky during daytime",
+				"origin": {
+					"id": "NybQgLnzrS4",
+					"url": "https://images.unsplash.com/photo-1585134339424-0fc98d0bfe86?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwzfHxvbWFufGVufDB8fHx8MTczMDc0Nzg0MXww&ixlib=rb-4.0.3&q=85",
+					"width": 4030,
+					"height": 2783
+				},
+				"width": 4030,
+				"height": 2783,
+				"edit": {
+					"background": "transparent",
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"thumbnails": {}
+			}
+		},
+		"items": []
+	}
+]
