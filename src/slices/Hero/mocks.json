@@ -39,18 +39,17 @@
 				}
 			},
 			"image": {
-				"__TYPE__": "ImageContent",
 				"provider": "imgix",
-				"url": "https://images.unsplash.com/photo-1585134339424-0fc98d0bfe86?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwzfHxvbWFufGVufDB8fHx8MTczMDc0Nzg0MXww&ixlib=rb-4.0.3&q=85",
-				"alt": "brown and green rock formation on blue sea under blue sky during daytime",
+				"url": "https://images.unsplash.com/photo-1597714026720-8f74c62310ba?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxfHxjaXRydXMlMjBmcnVpdHxlbnwwfHx8fDE3MzA3MTM2Mzl8MA&ixlib=rb-4.0.3&q=85",
+				"alt": "orange fruits under blue sky during daytime",
 				"origin": {
-					"id": "NybQgLnzrS4",
-					"url": "https://images.unsplash.com/photo-1585134339424-0fc98d0bfe86?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwzfHxvbWFufGVufDB8fHx8MTczMDc0Nzg0MXww&ixlib=rb-4.0.3&q=85",
-					"width": 4030,
-					"height": 2783
+					"id": "eaOjEz8746k",
+					"url": "https://images.unsplash.com/photo-1597714026720-8f74c62310ba?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwxfHxjaXRydXMlMjBmcnVpdHxlbnwwfHx8fDE3MzA3MTM2Mzl8MA&ixlib=rb-4.0.3&q=85",
+					"width": 5688,
+					"height": 3792
 				},
-				"width": 4030,
-				"height": 2783,
+				"width": 5688,
+				"height": 3792,
 				"edit": {
 					"background": "transparent",
 					"zoom": 1,
@@ -59,6 +58,8 @@
 						"y": 0
 					}
 				},
+				"credits": null,
+				"__TYPE__": "ImageContent",
 				"thumbnails": {}
 			}
 		},
